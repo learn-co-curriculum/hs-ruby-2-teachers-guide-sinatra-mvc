@@ -42,8 +42,13 @@ You all built projects in Ruby 1 that you should be proud of, but you probably w
   * Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
 + We will be using a gem called Sinatra to set up our MVC framework and create our applications.
   * We’ll be going into depth about how each component of the Sinatra MVC performs each of these actions, but first we need to create a new blank Sinatra project and put in all the empty directories and files that will keep us organized as we build our project.
-+ First Challenge:
-  * Use terminal and your mkdir, touch and cd commands to build out this [file structure](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-project-setup)
++ **First Challenge for Students:**
+  * Use terminal and your `mkdir`, `touch` and `cd` commands to build out this [file structure](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-project-setup)
+
+**CREATING A GITHUB REPO**
++ We'll be saving student progress on GitHub so they'll all need to set up GitHub repos
++ Here are instructions: https://github.com/flatiron-school-curriculum/hs-git-commit-catchup
+
 
 ### Conclusion / So What?
 
