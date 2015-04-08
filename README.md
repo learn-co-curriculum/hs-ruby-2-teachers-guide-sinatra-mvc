@@ -6,7 +6,7 @@
 ---
 
 ### SWBATs
-Build a basic Sinatra application using the principles of MVC architecture
+~Build a basic Sinatra application using the principles of MVC architecture~
 
   + MODEL - Understand what a model is
   + MODELS - Build a model with attributes and actions
