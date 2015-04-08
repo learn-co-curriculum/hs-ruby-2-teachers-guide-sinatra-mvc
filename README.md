@@ -49,6 +49,19 @@ You all built projects in Ruby 1 that you should be proud of, but you probably w
 + We'll be saving student progress on GitHub so they'll all need to set up GitHub repos
 + Here are instructions: https://github.com/flatiron-school-curriculum/hs-git-commit-catchup
 
+**SINATRA WALKTHROUGH**
+***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-1-code-snippets)
++ Gemfile: This is where we bring in Gems (open source code) that we can use in our project. 
+  * Create a development group - for working locally on our computer.
+  * Look at the code snippet for Gemfile
+  * In terminal in the directory of the project, run `bundle install` once you save the changes to your gemfile
++ Config.ru: This file controls the instructions that actually run our app
+  * To run our application we’ll need to start up a server with a tool like the `rackup` gem. 
+  * This file tells the server where to find an run the application
+  * See code snippet 2
++
+
+
 
 ### Conclusion / So What?
 
