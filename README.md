@@ -26,11 +26,24 @@
   + NB - Must use rackup (as opposed to shotgun) for this demo (shotgun restarts server every time page is refreshed and tweets disappear)
 
 ### Motivation / Why Should You Care?
-
+You all built projects in Ruby 1 that you should be proud of, but you probably wanted to make them even bigger and better and add features that you didn’t know how to implement. We’re going to spend the next few weeks taking your skills to the next level. To that end we need to make sure that our foundation is solid before we get fancy. Today we are going to go over MVC frameworks and lay the groundwork for a basic Twitter like project.
 
 ### Lesson Plan
-
-
+**HOW WEB APPLICATIONS WORK**
++ MVC stands for Model View Controller
++ Models
+  * The logic or code that goes into storing and maintaining the data in an application - like adding a tweet to your list of tweets - is the M in an MVC framework - the models.
+  * The models are responsible for pulling data from database.
++ Views
+  * The V in MVC stands for views and this directory is where we will store all of the HTML (and embedded Ruby) that gets displayed in the browser.
++ Controller
+  * The C stands for Controller and the application controller file in our project will hold all the code that is in charge of making the back end - the Ruby logic - talk to the front end - the HTML in the browser that users interact with.
++ This MVC - model view controller - framework is the way that most modern web applications are organized.
+  * Keeping the functionality of our application in these separate directories helps us stay organized as our apps become more and more complex.
++ We will be using a gem called Sinatra to set up our MVC framework and create our applications.
+  * We’ll be going into depth about how each component of the Sinatra MVC performs each of these actions, but first we need to create a new blank Sinatra project and put in all the empty directories and files that will keep us organized as we build our project.
++ First Challenge:
+  * Use terminal and your mkdir, touch and cd commands to build out this [file structure](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-project-setup)
 
 ### Conclusion / So What?
 
