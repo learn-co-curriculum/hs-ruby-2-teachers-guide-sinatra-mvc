@@ -83,7 +83,7 @@ In this lesson, students will be creating their own version of Twitter using Sin
     * See code snippet 5
   * **Views**
     * This holds HTML and erb files. Erb stands for embedded Ruby
-    * Write some valid HTML with a placeholder where the tweets will displayed in `tweets.erb`
+    * Write some valid HTML with a placeholder where the tweets will displayed in `index.erb`
     * See code snippet 6
 
 **CONNECTING THE MVC COMPONENTS**
@@ -105,7 +105,7 @@ In this lesson, students will be creating their own version of Twitter using Sin
   * Then show how to serve up an erb file - we do this because it's much cleaner than adding all of the HTML in our controller as one big string
     * See code snippet 8
     * Restart the server to see this
-  * Then create tweet instances inside the '/' route and show how to display them in `tweets.erb`
+  * Then create tweet instances inside the '/' route and show how to display them in `index.erb`
     * We can write Ruby in an .erb using erb brackets
       * There are two types `<% %>` let you write Ruby and nothing will be displayed on the screen
       * `<%= %>` will actually show the results of the Ruby you are writing in the browser
