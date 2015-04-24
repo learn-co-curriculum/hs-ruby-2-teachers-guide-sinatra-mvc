@@ -30,7 +30,7 @@ You all built projects in Ruby 1 that you should be proud of, but you probably w
 
 ### Lesson Plan
 In this lesson, students will be creating their own version of Twitter using Sinatra.
-***Sample Completed Fwitter for this lesson can be found [here](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-sinatra-template/tree/week-1)***
+***Sample Completed Fwitter for this lesson can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-1)***
 
 **HOW WEB APPLICATIONS WORK**
 + MVC stands for Model View Controller
@@ -46,14 +46,14 @@ In this lesson, students will be creating their own version of Twitter using Sin
 + We will be using a gem called Sinatra to set up our MVC framework and create our applications.
   * We’ll be going into depth about how each component of the Sinatra MVC performs each of these actions, but first we need to create a new blank Sinatra project and put in all the empty directories and files that will keep us organized as we build our project.
 + **First Challenge for Students:**
-  * Use terminal and your `mkdir`, `touch` and `cd` commands to build out this [file structure](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-project-setup)
+  * Use terminal and your `mkdir`, `touch` and `cd` commands to build out this [file structure](https://github.com/learn-co-curriculum/hs-advanced-ruby-project-setup)
 
 **CREATING A GITHUB REPO**
 + We'll be saving student progress on GitHub so they'll all need to set up GitHub repos
-+ Here are instructions: https://github.com/flatiron-school-curriculum/hs-git-commit-catchup
++ Here are instructions: https://github.com/learn-co-curriculum/hs-git-commit-catchup
 
 **SINATRA WALKTHROUGH**
-***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-1-code-snippets)***
+***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-1-code-snippets)***
 + **Gemfile:** This is where we bring in Gems (open source code) that we can use in our project.
   * Create a development group - for working locally on our computer.
   * Look at the code snippet for Gemfile
