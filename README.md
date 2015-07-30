@@ -1,9 +1,4 @@
----
-  tags: kids, mvc, sinatra
-  languages: ruby
-  level: 1
-  type: teacher guide
----
+
 
 ### SWBATs
 *Build a basic Sinatra application using the principles of MVC architecture*
