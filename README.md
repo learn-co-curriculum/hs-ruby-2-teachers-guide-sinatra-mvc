@@ -116,3 +116,5 @@ In this lesson, students will be creating their own version of Twitter using Sin
 + Students misspell initialize A LOT
 
 
+
+<a href='https://learn.co/lessons/hs-ruby-2-teachers-guide-sinatra-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
